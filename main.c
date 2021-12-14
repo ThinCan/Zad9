@@ -31,6 +31,7 @@ int main() {
       for (int row = 1; row <= n; row++) {
         printf("\nx%d=%f\t", row, x[row]); /* x1, x2, x3 are the required solutions*/
     }
+    
 
 
     return (0);
